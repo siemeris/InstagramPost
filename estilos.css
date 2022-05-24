@@ -1,0 +1,41 @@
+.verde {
+    width: 600px;
+    margin: auto;
+    background-color: white;
+}
+.rojocabecera>div{
+    display:inline-block;
+    vertical-align:middle;
+}
+.rojocabecera>.puntos {
+  position:relative;
+  right: -464px;
+}
+.rojoimagen img {
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+.moradoinferior{
+    width:100%;
+}
+.moradoiconos{
+    height: 30px;
+}
+.moradoiconos i{
+    height: 30px;
+}
+.moradoiconos>.bookmark{
+    float: right;
+}
+.rojocabecera{
+    padding: 10px 10px;
+}
+.rojoinferior{
+    padding: 10px 10px;
+}
+.html5 p{
+    margin: 0%;
+}
+
