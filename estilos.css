@@ -19,6 +19,7 @@ body{
 }
 .moradoinferior{
     width:100%;
+    font-family: 'Roboto', sans-serif;
 }
 .moradoiconos{
     height: 30px;
@@ -37,5 +38,8 @@ body{
 }
 .html5 p{
     margin: 0%;
+}
+.moradolikes {
+    font-family: 'Roboto', sans-serif;
 }
 
